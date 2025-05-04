@@ -39,11 +39,11 @@ html {
 }
 
 .parallax {
-  background-image: url(https://picsum.photos/id/640/2509/1673);
+  background-image: url(https://picsum.photos/id/640/2509/1673);url(https://picsum.photos/id/640/2509/1673)
   height: 100vh;
   background-attachment: fixed;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
 }
 
