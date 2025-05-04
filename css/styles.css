@@ -32,3 +32,27 @@ footer a i {
 .nav-pills {
   color: rgb(3, 3, 109) !important;
 }
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.parallax {
+  background-image: url(https://picsum.photos/id/640/2509/1673);
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+}
