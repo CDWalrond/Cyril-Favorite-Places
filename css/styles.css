@@ -41,7 +41,7 @@ html {
 
 .parallax {
   background-image: url(https://picsum.photos/id/640/2509/1673);
-  height: 500vh;
+  height: 400vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: repeat;
@@ -57,18 +57,18 @@ html {
   color: white;
   background-color: rgba(0, 0, 0, 0.6);
 }
-.row {
+/* .row {
   width: 100%;
   border: 5px solid black;
   justify-content: center;
-}
-.col {
+} */
+/* .col {
   height: 100vh;
   max-width: 50%;
   border: 5px solid black;
   box-sizing: border-box;
   overflow: auto;
-}
+} */
 .col #maps {
   max-width: 50%;
   height: 50%;
