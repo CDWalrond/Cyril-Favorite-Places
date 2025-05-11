@@ -49,18 +49,6 @@ html {
   color: white;
   background-color: rgba(0, 0, 0, 0.6);
 }
-/* .row {
-  width: 100%;
-  border: 5px solid black;
-  justify-content: center;
-} */
-/* .col {
-  height: 100vh;
-  max-width: 50%;
-  border: 5px solid black;
-  box-sizing: border-box;
-  overflow: auto;
-} */
 .col #maps {
   max-width: 50%;
   height: 50%;
